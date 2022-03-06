@@ -2,6 +2,9 @@
 
 实现 TS 内置的 `Pick<T, T>`
 
+type-challenges[地址](https://github.com/type-challenges/type-challenges/blob/master/questions/4-easy-pick/README.md)
+
+
 ```ts
 interface Todo {
   title: string
